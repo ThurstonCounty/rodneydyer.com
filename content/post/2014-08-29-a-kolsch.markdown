@@ -1,0 +1,34 @@
+---
+author: Rodney
+date: 2014-08-29 02:00:00+00:00
+draft: false
+title: A Kölsch
+type: post
+url: /2014/08/29/a-kolsch/
+categories:
+- Brewing
+---
+
+[![](https://smythescottage.files.wordpress.com/2014/08/f3b9f-20140828_201203.jpg)
+](https://smythescottage.files.wordpress.com/2014/08/f3b9f-20140828_201203.jpg)
+
+## 
+
+## The Rationale
+
+In my brewing, I've been working to develop a system that can handle lagers. I am a great fan of a good bitter pilsner and I'm still trying to work out the house recipe and technique. I'm getting close but not ready to brag about it. The thing about lagers is that they are essentially _naked_beers. There is not a lot of other flavors to cover up any problems. As such, it is an exacting exercise to make them right, in large part due to the use of lager yeasts.  One way to get a nice light beer using ale yeasts is to look towards the Kölsch, a beer that is only brewed (officially) in Cologne Germany. This is a very nice and light beer that goes well with the hot temperatures commonly found in the Dog Days of Virginia summers. So here is a great example I like to brew and as the latest version just came out, I'm collecting reviews from my own critics in the neighborhood. So far, it has been well received. Here is my latest iteration of it.  
+  
+## The Recipe
+
+For my system, I have general two igloo cooler and brew kettle setup and target 5 gallon batches. For the mash, I use:  * 9# German Pilsner Malt  * 0.5# Vienna Malt for some body  * 0.5# German wheat malt for head retention
+
+I mashed this in looking at a temperature of 149°F and hold it for 75 minutes. I used the longer mash to ensure the pilsner malt was fully converted. I then batch sparged in two parts (1.5 & 4.2 gal each) at 170°F until the brew kettle had 7.6gal. I used a bit too much in the second sparge, need to cut that down a bit. The first runnings was 1.062 and the last was 1.014. After the sparging, the gravity was 1.040, which is exactly what I was going for.  
+  
+Given the amount of pilsner malt, I boiled for 90 minutes to remove as much DMS as possible. At 60 minutes, I added 50.5g of Hallertauer Hersbrucker (4.0%) to the hop spider. At the end of the boil, the gravity was 1.053 (a bit over the 1.049 predicted by BeerSmith). I cooled with an immersion chiller as much as possible. As it was brewed on 3 July in Virginia, my hose water temperature was not that low.   
+  
+I use a corny keg as a fermenter. I like this because it fits into my fermentation fridge. I have a tall college fridge on a temperature controller. I have a keg lid that has a hole drilled into it and a flask to take the blow off. Listening to Jamil on the Brewing Network, a fermentation temperature of 62 (if I remembered that correctly) was an optimal temperature for WLP029, White Labs German Ale/Kölsch yeast to do a good job. Typically what I have to do is throw it into the corny, oxygenate with a stone, and then throw it into my fermentation chiller overnight. In the morning, I pitch a starter (1.5L built up for a few days prior) and let it go. I let this ferment to 80% finished (I was expecting a FG of 1.009) and then I pull it out (@ 1.017) and let it finish at room temperature (65-70°F in the house). Once fermentation was finished (4 days in this case) as determined by a stable gravity for three days, I threw it in the lagering fridge (34°F) to settle down.   
+  
+I pulled the corny on 26 August and threw it into the kegerator. I was expecting that I would try some geletin or filtering to clean it up, but it looks awesome as is. I put it on 15PSI CO2 and it is bubbling up nicely. It is crystal clear and very tasty. A nice light brew (lawnmower beer for the last mows of summer anyone?). No DMS, no off flavors, a sweetness that is characteristic of pilsner malt and a smooth finish. This is a very nice beverage and all I have to do is find some of those Kölsch glasses to serve it in a proper fashion. A great lighter beer addition to the rotation.  
+  
+  
+
