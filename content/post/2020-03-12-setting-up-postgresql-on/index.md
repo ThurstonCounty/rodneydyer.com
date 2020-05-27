@@ -1,5 +1,5 @@
 ---
-title: 'Setting up Postgresql on '
+title: 'Setting up Postgresql on mac'
 author: ''
 date: '2020-03-12'
 slug: setting-up-postgresql-on
@@ -9,8 +9,11 @@ tags:
   - postgresql
 type: ''
 subtitle: ''
-header:
-  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2xlonmISBn4-etAR2g3VhkGXdOqsx2hvAtU3IhhO6HkKcLJ4D'
+image:
+  placement: 1
+  caption: "Postgresql"
+  focal_point: "Left"
+  preview_only: false
 ---
 
 This is rather quick and easy to do.  On MacOS, make sure you have Homebrew installed and then follow those instructions.  

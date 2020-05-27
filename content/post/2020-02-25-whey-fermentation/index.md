@@ -10,8 +10,11 @@ tags:
   - experimental
 type: ''
 subtitle: ''
-header: 
-  image: "https://live.staticflickr.com/65535/49587625357_54c2024fb7_c_d.jpg"
+image:
+  placement: 3
+  caption: "Whey, no whey!"
+  focal_point: "Left"
+  preview_only: false
 ---
 
 So there is a project that I've been working on that spans both my cheese and brewing hobbies.  There is some literature that exists suggesting that the Vikings used a fermented whey drink for some special drinks.  I've read that this drink, called *blaand*, was the first drop of liquid on the lips of a baby and the last put on the lips of the dear departed.  In between it was drunk often.
