@@ -21,7 +21,8 @@ copyright = "&copy; 2020"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+# theme = "hugo-academic"  # base R install
+theme = "academic"        # submodule from latest
 
 # Get last modified date for content from Git?
 enableGitInfo = false
