@@ -12,8 +12,8 @@ tags:
   - competition
 type: ''
 subtitle: ''
-image: 'https://live.staticflickr.com/65535/49604398708_149ca16061_c_d.jpg'
-hero: 'https://live.staticflickr.com/65535/49604398708_149ca16061_c_d.jpg'
+header:
+  image: 'https://live.staticflickr.com/65535/49604398708_149ca16061_c_d.jpg'
 ---
 
 I submitted four entires to the 25th CARBOY Shamrock Open XXV beer competition in Raleigh North Carolina.  For some reason only 3 of my entries arrived, the Trappist Single was *lost in transit* (must have been extra tasty).  That being said, the roggenbier I submitted took a First Place win in category with a score of *41*. 

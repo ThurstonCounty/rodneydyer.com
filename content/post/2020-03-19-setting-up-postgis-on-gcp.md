@@ -2,7 +2,6 @@
 title: Setting up PostGIS on GCP
 author: rodney
 date: '2020-03-19'
-slug: setting-up-postgis-on-gcp
 categories:
   - Programming
   - GCP
@@ -14,7 +13,8 @@ tags:
   - postgis
   - experimental
 subtitle: 'Working towards online geospatial solutions'
-image: 'https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7.fit_scale.size_1028x578.v_1569482492.jpg'
+header: 
+  image: 'https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7.fit_scale.size_1028x578.v_1569482492.jpg'
 ---
 
 OK, so here we are, in the midst of COVID-19.  What a great time to start a new project and learn a new skill.  I'm focusing on developing a bit of my [golang](https://golang.org) chops and the [Google Cloud Platform](https://cloud.google.com) knowledge to see if we can use these as our primary backends for teaching and research needs at work.  My boss just gutted my server room and has maneuvered the only person who can actually do geospatial backend work to not work in my unit any longer so I've got to get creative.

@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: ""
+  image: "posts.jpg"
 title: Posts
 view: 2
 ---

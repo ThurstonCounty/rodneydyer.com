@@ -91,12 +91,12 @@ summary(sim_freqs)</code></pre>
 <pre class="r"><code>fake101 &lt;- make_population( sim_freqs %&gt;% filter(Stratum==&quot;101&quot;), N=100 )
 head(fake101)</code></pre>
 <pre><code>##   Population ID   AML  ATPS    EF    EN  LTRS  MP20   WNT   ZMP
-## 1        101  1 11:11 02:02 01:01 03:03 01:02 12:13 01:01 01:01
-## 2        101  2 11:11 02:02 01:02 01:01 01:02 11:13 01:01 01:01
-## 3        101  3 08:11 02:04 01:01 03:03 01:02 13:14 01:01 01:01
-## 4        101  4 08:08 02:09 01:02 01:03 01:02 12:12 01:01 01:01
-## 5        101  5 08:11 02:09 01:02 01:03 02:02 12:13 01:01 01:01
-## 6        101  6 11:11 02:02 01:02 01:03 02:02 02:12 01:01 01:01</code></pre>
+## 1        101  1 08:08 02:09 01:01 01:03 01:02 12:12 01:01 01:01
+## 2        101  2 11:11 02:02 02:02 01:03 02:02 12:12 01:01 01:01
+## 3        101  3 08:11 02:04 01:02 01:01 02:02 12:14 01:01 01:01
+## 4        101  4 08:11 02:02 01:01 01:01 02:02 12:12 01:01 01:01
+## 5        101  5 08:11 02:02 01:01 03:03 01:02 02:13 01:01 01:01
+## 6        101  6 08:11 02:02 01:02 01:01 01:02 12:13 01:01 01:01</code></pre>
 <p>The frequencies should be pretty close to the real ones. Compare the <code>LTRS</code> locus allele frequencies from the simualted data</p>
 <pre class="r"><code>frequencies( fake101,loci = &quot;LTRS&quot;) </code></pre>
 <pre><code>##   Locus Allele Frequency

@@ -9,7 +9,8 @@ tags:
   - postgresql
 type: ''
 subtitle: ''
-image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2xlonmISBn4-etAR2g3VhkGXdOqsx2hvAtU3IhhO6HkKcLJ4D'
+header:
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2xlonmISBn4-etAR2g3VhkGXdOqsx2hvAtU3IhhO6HkKcLJ4D'
 ---
 
 This is rather quick and easy to do.  On MacOS, make sure you have Homebrew installed and then follow those instructions.  
