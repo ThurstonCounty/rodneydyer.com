@@ -6,7 +6,7 @@ slug: covid
 categories: 
  - Meme
 tags: 
- - jokes
+ - jokes  
 type: ''
 subtitle: ''
 image:
