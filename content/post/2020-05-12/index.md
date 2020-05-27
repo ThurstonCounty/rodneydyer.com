@@ -9,9 +9,6 @@ categories:
 tags:
   - vdot
   - jsm
-image: 
-  caption: ''
-  focal_point: ''
 ---
 
 This spring's Environmental Research Advosory Committee is set to be held virtually (as most things this odd year).  

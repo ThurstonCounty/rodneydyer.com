@@ -11,9 +11,6 @@ tags:
   - genetic structure
   - landscape genetics
 featured: no
-image:
-  caption: ''
-  focal_point: ''
 summary: 'A guest lecture in ENVS102: Environmental Studies II.'
 ---
 

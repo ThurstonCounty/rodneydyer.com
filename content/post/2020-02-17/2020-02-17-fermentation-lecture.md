@@ -9,9 +9,6 @@ categories:
 tags:
   - fermentation
 featured: no
-image:
-  caption: ''
-  focal_point: ''
 ---
 
 Here is a [presentation](https://dyerlab.org/slides/fermentation/fermentation_mashing#1) of mashing techniques and a short experiment for Dr. Tenjo's *Fermentation* class.

@@ -12,9 +12,6 @@ abstract: 'Understanding migratory connectivity is essential for determining the
 authors: ["Matthew DeSaix",  "Lesley Bulluck",  "Andrew Eckert",  "Catherine Viverette",  "Than Boves",  "Jessica Reese",  "Christopher Tonra",  "Rodney Dyer"]
 doi: '10.1111/mec.15083'
 featured: no
-image:
-  caption: ''
-  focal_point: ''
 publication: '*Molecular Ecology*'
 publication_types:
   - '2'
