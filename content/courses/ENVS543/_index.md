@@ -1,15 +1,14 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2020-05-27T00:00:00Z"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+lastmod: "2020-05-27T00:00:00Z"
+linktitle: Environmental Data Literacy
 menu:
   example:
-    name: Overview
+    name: ENVS543
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview
+summary: Environmental Data Literacy is the first course in our gradaute program focusing on development of quantitative geospatial and analysis skills using R.
+title: Data Literacy
 toc: true
 type: docs
 weight: 1
