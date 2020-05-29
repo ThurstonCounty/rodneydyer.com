@@ -23,4 +23,15 @@ image:
   preview_only: yes
 projects: []
 ---
-OK, so after waffling around a lot and trying to figure out
+
+
+OK, so after waffling around a lot and trying to figure out that having everything I do in several locations leads to a real logistical problem.
+
+![dumpster fire](https://live.staticflickr.com/65535/49946218493_7eb444f759_c_d.jpg)
+
+
+
+
+
+![free hugs](https://live.staticflickr.com/65535/49946184783_a68c31fe81_c_d.jpg)
+
