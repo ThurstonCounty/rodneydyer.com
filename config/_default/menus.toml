@@ -15,6 +15,11 @@
   weight = 30
 
 [[main]]
+  name = "Photos"
+  url = "https://www.flickr.com/photos/gene_flow_joe/"
+  weight =35
+
+[[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
@@ -23,6 +28,8 @@
   name = "Courses"
   url = "courses/"
   weight = 50
+
+
 
 [[main]]
   name = "Contact"
