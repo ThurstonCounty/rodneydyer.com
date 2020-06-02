@@ -25,11 +25,11 @@ projects: []
 ---
 
 
-OK, so after waffling around a lot and trying to figure out that having everything I do in several locations leads to a real logistical problem.
+OK, so after waffling around a lot and trying to figure out that having everything I do in several locations leads to a real logistical problem.  Keeping everything in sync is a total nighmare.
 
 ![dumpster fire](https://live.staticflickr.com/65535/49946218493_7eb444f759_c_d.jpg)
 
-
+So 
 
 
 
