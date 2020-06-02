@@ -41,5 +41,3 @@ hero_media = ""
 <p>&nbsp;</p>
 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
